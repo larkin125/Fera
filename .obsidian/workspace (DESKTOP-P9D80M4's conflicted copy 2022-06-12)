@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "1a0aadda201053ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52a97898c4f412f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dd338e7f913ca1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe9262cf767a56e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5a20f98375ed2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab03f61ba89ee5af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b6692ad23d9b43a",
+    "type": "split",
+    "children": [
+      {
+        "id": "56794212f29828a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32ade8964e44a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30469ef448255a07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9be5990fb1483407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "924ab6bce918db1a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e52a97898c4f412f",
+  "lastOpenFiles": []
+}

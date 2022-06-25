@@ -1,0 +1,30 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "0. Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "0. Templates/0. Character Template.md",
+    "0. Templates/1. Roleplay Template.md"
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

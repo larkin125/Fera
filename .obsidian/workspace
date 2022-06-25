@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "9125c9d57f0f5e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "22e3d42c23c6ec89",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f2fccc4b6f17f92",
+    "type": "split",
+    "children": [
+      {
+        "id": "4543c5aad0ae39f1",
+        "type": "tabs",
+        "dimension": 44.24242424242423,
+        "children": [
+          {
+            "id": "072d7c2b5e4acb51",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "7417bc518d28521f",
+        "type": "tabs",
+        "dimension": 55.75757575757577,
+        "children": [
+          {
+            "id": "973d98caa32810dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "238063c2a2b7afe4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 545
+  },
+  "right": {
+    "id": "bc12ed57a5f748d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1255b67dc5dfc44d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b83f0fccf5f478",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8de0d50f07a0fac5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6a14c70e25d2f24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfbb0a9e43884410",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "22e3d42c23c6ec89",
+  "lastOpenFiles": [
+    "1. Attachments/bartender_yang_by_canius-db7pf16.jpg",
+    "1. Attachments/beautiful-redhead-cosplayer-girl-wearing-victorian-style-steampunk-costume-big-breast-deep-neckline-touches-pocket-watch-142326228.jpg",
+    "1. Attachments/Colt-Model-1878-Double-Action-Revolver-7.webp",
+    "1. Attachments/Colt-Model-1878-Double-Action-Revolver-7.png",
+    "1. Attachments/EN2uPn8XkAI9azp 1.jpg",
+    "1. Attachments/ffda61ea049119f47bffd90b0938ed0e-1 1.jpg",
+    "1. Attachments/FUTlTiKVEAAjARi 1.mp4",
+    "1. Attachments/FVeXoLCWAAEJl__ 1.jpg",
+    "1. Attachments/image1.png",
+    "1. Attachments/image0.jpg"
+  ]
+}
