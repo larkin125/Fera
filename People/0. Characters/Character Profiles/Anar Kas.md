@@ -9,7 +9,7 @@ Year: Early 1800
 
 # Anar Kas
 
-![](ffda61ea049119f47bffd90b0938ed0e-1%202.jpg)
+![](ffda61ea049119f47bffd90b0938ed0e-1.jpg)
 
 # Summary
 

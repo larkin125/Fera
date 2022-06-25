@@ -9,7 +9,7 @@ Year: Early 1300
 
 # Arlayna
 
-![[7ac0d6ecd957e7484b353775e1226043.jpg]]
+![[../../../1. Attachments/8.jpg]]
 
 # Summary
 

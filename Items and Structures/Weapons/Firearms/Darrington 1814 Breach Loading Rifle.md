@@ -2,4 +2,4 @@ The Darrington 1814 Breach Loading Rifle is a breech-loading single-shot le
 
 There were four main marks of the Darrington 1814 rifle produced: Mark I (released in Midyear 1814), Mark II, Mark III, and Mark IV. There was also an 1815 carbine version with variations that included a Garrison Artillery Carbine, an Artillery Carbine (Mark I, Mark II, and Mark III), and smaller versions designed as training rifles for military cadets. The Mark IV Darrington 1814 rifle ended production in 1830, but remained in service throughout the Ilmarian Imperium until the end of the Ilmarian Civil War.
 
-![](1024px-Martini-Henry_m1871_-_England_-_AM.032017.png)
+![](8.png)

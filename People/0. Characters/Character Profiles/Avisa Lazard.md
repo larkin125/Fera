@@ -9,7 +9,7 @@ Year: Early 1900
 
 # Avisa Lazard
 
-![](1339451276_preview_adam%202.jpg)
+![](1339451276_preview_adam.jpg)
 
 # Summary
 

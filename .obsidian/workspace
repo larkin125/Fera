@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22e3d42c23c6ec89",
+        "id": "5321cf99e85ffe0c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md"
+              }
             }
           },
           {
@@ -126,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "22e3d42c23c6ec89",
+  "active": "5321cf99e85ffe0c",
   "lastOpenFiles": [
-    "1. Attachments/bartender_yang_by_canius-db7pf16.jpg",
-    "1. Attachments/beautiful-redhead-cosplayer-girl-wearing-victorian-style-steampunk-costume-big-breast-deep-neckline-touches-pocket-watch-142326228.jpg",
-    "1. Attachments/Colt-Model-1878-Double-Action-Revolver-7.webp",
-    "1. Attachments/Colt-Model-1878-Double-Action-Revolver-7.png",
-    "1. Attachments/EN2uPn8XkAI9azp 1.jpg",
-    "1. Attachments/ffda61ea049119f47bffd90b0938ed0e-1 1.jpg",
-    "1. Attachments/FUTlTiKVEAAjARi 1.mp4",
-    "1. Attachments/FVeXoLCWAAEJl__ 1.jpg",
-    "1. Attachments/image1.png",
-    "1. Attachments/image0.jpg"
+    "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md",
+    "Classes/Rogue.md",
+    "People/0. Characters/Character Profiles/Alheit.md",
+    "People/0. Characters/Character Profiles/Alexander Vanderbilt.md",
+    "People/0. Characters/Character Profiles/Alesia Beaugendre.md",
+    "People/0. Characters/Character Profiles/Adelaidis Adler.md",
+    "People/0. Characters/Character Profiles/Vasil.md",
+    "People/0. Characters/Character Profiles/Rudiger Nesler.md",
+    "People/0. Characters/Character Profiles/Reinhilde von Talhain.md",
+    "People/0. Characters/Character Profiles/Nehir Nur.md"
   ]
 }
