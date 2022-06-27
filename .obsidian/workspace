@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md",
+            "file": "Main Menu.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545
+    "width": 296
   },
   "right": {
     "id": "bc12ed57a5f748d5",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md",
+                "file": "Main Menu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md"
+                "file": "Main Menu.md"
               }
             }
           },
@@ -135,15 +135,15 @@
   },
   "active": "5321cf99e85ffe0c",
   "lastOpenFiles": [
-    "Items and Structures/Weapons/Firearms/Darrington 1814 Breach Loading Rifle.md",
-    "Classes/Rogue.md",
-    "People/0. Characters/Character Profiles/Alheit.md",
-    "People/0. Characters/Character Profiles/Alexander Vanderbilt.md",
-    "People/0. Characters/Character Profiles/Alesia Beaugendre.md",
-    "People/0. Characters/Character Profiles/Adelaidis Adler.md",
-    "People/0. Characters/Character Profiles/Vasil.md",
-    "People/0. Characters/Character Profiles/Rudiger Nesler.md",
-    "People/0. Characters/Character Profiles/Reinhilde von Talhain.md",
-    "People/0. Characters/Character Profiles/Nehir Nur.md"
+    "Main Menu.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Adrian - A Job.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled 6.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled 5.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled 4.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled 3.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled 2.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled 1.md",
+    "2. Roleplay/Open Starters/NEW PROFILE/Untitled.md",
+    "People/0. Characters/Character Profiles/Adrian Zymern.md"
   ]
 }

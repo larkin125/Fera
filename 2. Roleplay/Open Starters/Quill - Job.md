@@ -13,4 +13,4 @@ Entering the tavern, he sat at the bar and ordered a drink
   
 
 #OpenRP #FeraRP #LewdRP 
-![](c51fa8365807a70301060a5130adcecd%201.jpg)
+![](c51fa8365807a70301060a5130adcecd.jpg)
