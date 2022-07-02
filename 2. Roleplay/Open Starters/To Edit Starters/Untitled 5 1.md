@@ -1,0 +1,14 @@
+---
+Character: 
+Lewd: 
+---
+# Character
+
+
+# Starter
+
+"I might be an Entitled, but that doesn't mean I'm not agile. I am flexible. See!" [#OpenRP](https://twitter.com/hashtag/OpenRP?src=hashtag_click) [#FeraRP](https://twitter.com/hashtag/FeraRP?src=hashtag_click) [#LewdRP](https://twitter.com/hashtag/LewdRP?src=hashtag_click)
+  
+
+#OpenRP #FeraRP #LewdRP 
+![[1. Attachments/Pasted image 20220702170334.jpg]]
