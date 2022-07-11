@@ -4,7 +4,7 @@
 
 # The Three Kingdoms
 
-![](Three%20Kingdoms%201.png)
+![](Three%20Kingdoms.png)
 
 # Vadras
 

@@ -1,12 +1,11 @@
 ---
-Character: 
+Character:  Prudencia
 Lewd: 
 ---
 # Character
-
+[[Prudencia Montgomery]]
 
 # Starter
-
 "What? You told me to dress up."
   
 

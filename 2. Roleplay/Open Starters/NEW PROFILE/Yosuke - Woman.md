@@ -1,9 +1,9 @@
 ---
-Character: 
-Lewd: 
+Character: Yosuke Takashi
+Lewd: No****
 ---
 # Character
-
+[[Yosuke Takashi]]
 
 # Starter
 

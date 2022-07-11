@@ -1,9 +1,9 @@
 ---
-Character: 
-Lewd: 
+Character: Ustun Knight
+Lewd: No
 ---
 # Character
-
+Ustun Knight
 
 # Starter
 Slowly the armour shifted, the flesh palid beneath. It creaked, it groaned, every movement and every step was one of anguish and pain. It seemed the very suite was made to inflict pain on its wearer.

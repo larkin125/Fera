@@ -1,0 +1,1 @@
+"So, I get into this temple and you'll give me the Tokens to take two to a bath house?" Ike asked nervously.![[1. Attachments/Pasted image 20220711170259.jpg]]

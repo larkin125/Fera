@@ -5,5 +5,6 @@
   "dataview",
   "templater-obsidian",
   "obsidian-map-view",
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count"
 ]
